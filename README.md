@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Gautam Agrawal</h1>
+<h3 align="center">A passionat full-stack-developer from India</h3>
 
-<!--
-**agrawal542/agrawal542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agrawal542&label=Profile%20views&color=0e75b6&style=flat" alt="agrawal542" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Youtube-Clone**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Next.js**
+
+- 💬 Ask me about **react**
+
+- 📫 How to reach me **gautamagrawal542@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TwsfGTai7cYqVVNB4blCa1a2lOBf8tyD/view?usp=drive_link](https://drive.google.com/file/d/1TwsfGTai7cYqVVNB4blCa1a2lOBf8tyD/view?usp=drive_link)
