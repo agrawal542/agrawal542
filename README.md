@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **gautamagrawal542@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1TwsfGTai7cYqVVNB4blCa1a2lOBf8tyD/view?usp=drive_link](https://drive.google.com/file/d/1TwsfGTai7cYqVVNB4blCa1a2lOBf8tyD/view?usp=drive_link)
