@@ -1,7 +1,3 @@
-<!-- Replace "IMAGE_URL" with the actual URL of your image -->
-<p align="center">
-  <img src="IMAGE_URL" alt="Gautam Agrawal" width="200"/>
-</p>
 
 <h1 align="center">Hi there! 👋 I'm Gautam Agrawal</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
