@@ -14,7 +14,7 @@
 
 ### 📄 My Experiences
 
-- 💼 Check out my [Resume](https://drive.google.com/file/d/1Bgj_kbmqcXzQFcoBGYp3Rt70Ea4hLem6/view?usp=sharing)
+- 💼 Check out my [Resume](https://drive.google.com/file/d/1IE_BgorSGKDjPHXW_XhXEXSTeoGZA8Eq/view?usp=sharing)
 
 ### 🛠️ Skills
 
