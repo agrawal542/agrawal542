@@ -12,7 +12,6 @@
 - 💻 Currently working at **[Fracto](https://www.linkedin.com/company/fractotech/about/)**  
 - 🔥 Exploring **DevOps** (Docker, AWS)  
 - 🛠️ Working on **Aadhaar Masking** using `cv2` and **Google Vision API**  
-- 📚 Learning **Next.js**  
 - 🎯 Passionate about **building scalable backend systems**  
 
 📬 Reach me at: **gautamagrawal542@gmail.com**  
@@ -61,7 +60,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agrawal542&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agrawal542&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -85,7 +84,7 @@
 ## 🔗 Let's Connect  
 
 <p align="center">
-  <a href="https://linkedin.com/in/gautamagrawal542" target="_blank">
+  <a href="https://www.linkedin.com/in/gautam-agrawal-563739227/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:gautamagrawal542@gmail.com">
