@@ -26,7 +26,7 @@
 
 ---
 
-### 📄 [View My Resume](https://drive.google.com/file/d/12a0qtbLMb-nH2mViKitJGvTXpeCxurmY/view?usp=sharing)
+### 📄 [View My Resume](https://drive.google.com/file/d/1gCSMzaB1hxEBTlleQsLjWYMrn1m3dvlR/view?usp=drive_link)
 
 ---
 
