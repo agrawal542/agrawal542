@@ -38,8 +38,8 @@
 ---
 
 ### 🏆 Achievements
-- **LeetCode**: 850+ problems solved, 100+ published solutions → [Profile]([https://leetcode.com/](https://leetcode.com/gautam309/))
-- **Coding Ninjas**: Rank 54 nationally · Rating 2852 → [Profile]([https://www.codingninjas.com/](https://www.codingninjas.com/studio/profile/gautamAgrawal))
+- **LeetCode**: 850+ problems solved, 100+ published solutions → [Profile](https://leetcode.com/gautam309/)
+- **Coding Ninjas**: Rank 54 nationally · Rating 2852 → [Profile](https://www.codingninjas.com/studio/profile/gautamAgrawal)
 
 ---
 
